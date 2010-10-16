@@ -6,4 +6,4 @@ RubyGems tar package, unpack and install it. It does not rely on GNU tar,
 however, it does depend on Ruby, with the zlib bindings installed.
 
 Usage:
-    ruby -ropen-uri -e "open('http://gist.github.com/{TODO}/raw') { |f| eval(f.read) }"
+    ruby -ropen-uri -e "open('http://gist.github.com/raw/629305/0c9a14435f9ac8436f8c6befbe1376956498cc0f/i.rb') { |f| eval(f.read) }"
